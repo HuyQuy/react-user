@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Lê Huy Quý",
+        "tel": "0378815207",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Văn Quân",
+        "tel": "0397411511",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Lê Hoàng Lợi",
+        "tel": "0357283228",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Đinh Sỹ Hùng",
+        "tel": "0985367854",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Quốc Cường",
+        "tel": "0568798980",
+        "permission": 2
+    }
+]
